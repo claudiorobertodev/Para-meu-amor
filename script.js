@@ -1,3 +1,5 @@
+  console.log("Script carregado com sucesso!");
+// This script displays a random love phrase when the button is clicked.
 
 const frases = [
     "Você é a razão do meu sorriso.", "Com você, tudo faz sentido.",
